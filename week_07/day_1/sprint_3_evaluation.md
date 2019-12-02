@@ -1,4 +1,4 @@
-## Sprint-2 Evaluation-2
+## Sprint-3 Evaluation-2
 
 - Create a page `index.html`
 - The webpage should be able to handle grocery data
